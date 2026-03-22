@@ -15,3 +15,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Resolved TODO items from previous session
 - Reorganised test fixtures
+
+## 2026-03-22
+- Refactored module structure for clarity
