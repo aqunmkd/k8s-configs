@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated .gitignore to exclude build artifacts
 - Verified API endpoint response schema
 - Investigated performance bottleneck, noted findings
+
+## 2026-03-22
+- Added CONTRIBUTING.md stub
+- Resolved TODO items from previous session
+- Reorganised test fixtures
