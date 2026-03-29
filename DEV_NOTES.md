@@ -29,3 +29,7 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Drafted initial implementation plan for v2
 - Updated .gitignore to exclude build artifacts
+
+## 2026-03-30
+- Tidied up project structure
+- Investigated performance bottleneck, noted findings
